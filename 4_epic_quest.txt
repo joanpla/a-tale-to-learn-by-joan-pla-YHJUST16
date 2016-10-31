@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Then they decided to go on an epic journey.
+=======
+they then decided to go on a EPIC journey(the most epic) together through the land
+>>>>>>> Aknotofknots-master
